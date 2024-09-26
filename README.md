@@ -45,4 +45,4 @@ I have solved this challange to practice my html and css skills.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@smsh16](https://www.frontendmentor.io/profile/smsh16)
